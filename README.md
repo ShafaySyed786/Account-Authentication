@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Account-Authentication
+Tech used: React / Firebase / JS
+
+Recreated and updated WebDevSimplified's React Authentication Application to new Firebase V9 and New React update tools such as private
+routeing and stuff.
+
+Applicaiton allows user to create accounts using email and password.
+User will stay logged in through private routing
+
+User can choose to reset password through forgot password which will send email to user with a link for reset
+User can update password or email through update profile page
+>>>>>>> 0d9711a35ba708d1c98666b5ce6e0f17f00a7c97
